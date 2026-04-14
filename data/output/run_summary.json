@@ -1,0 +1,12 @@
+{
+  "total_frames": 60,
+  "total_detections": 154,
+  "total_unique_ids": 4,
+  "avg_detections_per_frame": 2.57,
+  "processing_fps": 5.2,
+  "elapsed_seconds": 11.55,
+  "model": "yolo11m.pt",
+  "tracker": "botsort",
+  "confidence": 0.25,
+  "output_video": "data/output/test_real_botsort_tracked.mp4"
+}
