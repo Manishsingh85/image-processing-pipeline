@@ -61,7 +61,7 @@ Selected over simpler alternatives (ByteTrack, DeepSORT) because sports footage 
 ### Setup
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Manishsingh85/image-processing-pipeline.git
 cd imageProcessingPipeline
 
 # Create virtual environment (recommended)
